@@ -10,4 +10,4 @@ service:
 
 ingress:
   enabled: true
-  host: myapp.<EXTERNAL-IP>.nip.io
+  host: myapp.ac1c0f56ce58946b585c045a7801455a-204078258.us-east-1.elb.amazonaws.com.nip.io
