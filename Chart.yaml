@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-helm-app
+version: 0.1.0
+description: A simple NGINX app with ingress using Helm
